@@ -11,6 +11,7 @@ the solution to this problem can be seen as a no of each no have,if factors are 
  2-----(1,2)---closed
  3------(1,3)----closed
  4------(1,2,4)---open
+ note: perfect square no between 1and 100 is also a soln
  */
 #include<iostream>
 #include<stdio.h>
